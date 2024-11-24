@@ -1,5 +1,7 @@
 # Given an array of integers nums and a target integer target, return the indices of the two numbers that add up to the target.
 
+from typing import List
+
 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
